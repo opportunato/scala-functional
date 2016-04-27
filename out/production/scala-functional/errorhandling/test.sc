@@ -27,3 +27,5 @@ sequenceViaTraverse(List(Some(1), Some(2), None))
 
 Left("Error happened") map (x => x)
 Right(5) map (x => 2 * x)
+
+
